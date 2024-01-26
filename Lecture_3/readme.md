@@ -1,0 +1,1 @@
+learned creating react app using babel & JSX but without NPM
